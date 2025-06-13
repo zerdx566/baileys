@@ -4,31 +4,42 @@
 
 ![WhatsApp API](https://i.supa.codes/nCgo8D)
 
-<p align="center">
-  <img src="https://i.imgur.com/nK2jO3Z.png" width="90%">
-</p>
+[![Izumi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naruyaizumi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
+  <!-- Node.js version -->
   <a href="https://nodejs.org">
-    <img src="https://img.shields.io/badge/Node.js-%3E=20.0.0-339933?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Node.js-%3E=20.0.0-green?logo=node.js" alt="Node.js">
   </a>
+
+  <!-- NPM version -->
   <a href="https://www.npmjs.com/package/naruyaizumi">
-    <img src="https://img.shields.io/npm/v/naruyaizumi?color=crimson&label=Version&style=for-the-badge&logo=npm&logoColor=white">
+    <img src="https://img.shields.io/npm/v/naruyaizumi?color=blue&label=naruyaizumi&logo=npm" alt="npm version">
   </a>
+
+  <!-- NPM total downloads -->
   <a href="https://www.npmjs.com/package/naruyaizumi">
-    <img src="https://img.shields.io/npm/dt/naruyaizumi?style=for-the-badge&label=Downloads&logo=npm&logoColor=white">
+    <img src="https://img.shields.io/npm/dt/naruyaizumi?label=downloads&logo=npm" alt="npm downloads">
   </a>
+
+  <!-- GitHub Stars -->
   <a href="https://github.com/naruyaizumi/baileys">
-    <img src="https://img.shields.io/github/stars/naruyaizumi/baileys?style=for-the-badge&label=Stars&logo=github">
+    <img src="https://img.shields.io/github/stars/naruyaizumi/baileys?style=social" alt="GitHub stars">
   </a>
+
+  <!-- WhatsApp Channel -->
   <a href="https://whatsapp.com/channel/0029Vb5vz4oDjiOfUeW2Mt03">
-    <img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    <img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp Channel">
   </a>
+
+  <!-- GitHub Repo -->
   <a href="https://github.com/naruyaizumi">
-    <img src="https://img.shields.io/badge/GitHub-naruyaizumi-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-naruyaizumi-181717?logo=github" alt="GitHub Profile">
   </a>
+
+  <!-- Instagram -->
   <a href="https://instagram.com/naruyaizumi_">
-    <img src="https://img.shields.io/badge/Instagram-@naruyaizumi-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-@naruyaizumi-E4405F?logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
 
