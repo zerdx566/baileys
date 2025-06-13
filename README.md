@@ -4,7 +4,8 @@
 
 ![WhatsApp API](https://i.supa.codes/nCgo8D)
 
-<p align="center">
+<div align="center" style="padding: 20px; border: 1px solid #444; border-radius: 12px; background: #1c1c1c; box-shadow: 0 0 12px rgba(255, 255, 255, 0.1); display: inline-block;">
+
   <!-- Node.js Version -->
   <a href="https://nodejs.org">
     <img src="https://img.shields.io/badge/Node.js-%3E=20.0.0-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
@@ -39,7 +40,8 @@
   <a href="https://instagram.com/naruyaizumi_">
     <img src="https://img.shields.io/badge/Instagram-@naruyaizumi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-</p>
+
+</div>
 
 Baileys adalah library TypeScript berbasis Webconnet untuk berinteraksi dengan WhatsApp Web API.
 
@@ -80,10 +82,7 @@ Paket ini `membutuhkan` Node.js versi **20 atau lebih tinggi** untuk berjalan.
 
 Proyek ini secara eksplisit ditujukan untuk lingkungan modern dan tidak mendukung Node versi lama. Dukungan akan selalu mengikuti versi LTS terbaru dari Node.js untuk menjaga performa dan kompatibilitas dengan ekosistem terbaru.
 
-<div style="text-align:center; border:1px solid #ddd; border-radius:12px; padding:10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); max-width:400px; margin:auto">
-  <img src="https://i.supa.codes/8bsFmG" style="border-radius:8px; max-width:100%; height:auto" alt="Badge Preview">
-  <p style="font-family:sans-serif; margin-top:8px; font-size:14px; color:#444">Badge Preview - naruyaizumi</p>
-</div>
+![metadata](https://i.supa.codes/8bsFmG)
 
 > **Copyright © 2024 - 2025 Naruya Izumi**
 
