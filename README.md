@@ -4,44 +4,33 @@
 
 ![WhatsApp API](https://i.supa.codes/nCgo8D)
 
-<div align="center" style="padding: 20px; border: 1px solid #444; border-radius: 12px; background: #1c1c1c; box-shadow: 0 0 12px rgba(255, 255, 255, 0.1); display: inline-block;">
+<p align="center">
+  <img src="https://i.imgur.com/nK2jO3Z.png" width="90%">
+</p>
 
-  <!-- Node.js Version -->
+<p align="center">
   <a href="https://nodejs.org">
-    <img src="https://img.shields.io/badge/Node.js-%3E=20.0.0-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/Node.js-%3E=20.0.0-339933?style=for-the-badge&logo=node.js&logoColor=white">
   </a>
-
-  <!-- NPM Version -->
   <a href="https://www.npmjs.com/package/naruyaizumi">
-    <img src="https://img.shields.io/npm/v/naruyaizumi?color=crimson&label=Version&style=for-the-badge&logo=npm&logoColor=white" alt="npm version">
+    <img src="https://img.shields.io/npm/v/naruyaizumi?color=crimson&label=Version&style=for-the-badge&logo=npm&logoColor=white">
   </a>
-
-  <!-- NPM Downloads -->
   <a href="https://www.npmjs.com/package/naruyaizumi">
-    <img src="https://img.shields.io/npm/dt/naruyaizumi?style=for-the-badge&label=Downloads&logo=npm&logoColor=white" alt="npm downloads">
+    <img src="https://img.shields.io/npm/dt/naruyaizumi?style=for-the-badge&label=Downloads&logo=npm&logoColor=white">
   </a>
-
-  <!-- GitHub Stars -->
   <a href="https://github.com/naruyaizumi/baileys">
-    <img src="https://img.shields.io/github/stars/naruyaizumi/baileys?style=for-the-badge&label=Stars&logo=github" alt="GitHub Stars">
+    <img src="https://img.shields.io/github/stars/naruyaizumi/baileys?style=for-the-badge&label=Stars&logo=github">
   </a>
-
-  <!-- WhatsApp Channel -->
   <a href="https://whatsapp.com/channel/0029Vb5vz4oDjiOfUeW2Mt03">
-    <img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel">
+    <img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-
-  <!-- GitHub Profile -->
   <a href="https://github.com/naruyaizumi">
-    <img src="https://img.shields.io/badge/GitHub-naruyaizumi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+    <img src="https://img.shields.io/badge/GitHub-naruyaizumi-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-
-  <!-- Instagram -->
   <a href="https://instagram.com/naruyaizumi_">
-    <img src="https://img.shields.io/badge/Instagram-@naruyaizumi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-@naruyaizumi-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-
-</div>
+</p>
 
 Baileys adalah library TypeScript berbasis Webconnet untuk berinteraksi dengan WhatsApp Web API.
 
