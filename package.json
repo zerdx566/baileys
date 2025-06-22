@@ -20,9 +20,6 @@
     "WASignalGroup/*.js",
     "engine-requirements.js"
   ],
-  "scripts": {
-    "preinstall": "node ./engine-requirements.js"
-  },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@cacheable/node-cache": "^1.5.6",
