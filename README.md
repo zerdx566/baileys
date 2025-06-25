@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-![WhatsApp API](https://i.supa.codes/6EWphC)
+![WhatsApp API](https://files.catbox.moe/y4r8a7.jpg)
 
 <p align="center">
   <!-- Node.js version -->
@@ -40,6 +40,7 @@
     <img src="https://img.shields.io/badge/Instagram-@naruyaizumi-E4405F?logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
+</div>
 
 Baileys adalah library TypeScript berbasis Webconnet untuk berinteraksi dengan WhatsApp Web API.
 
